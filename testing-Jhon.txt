@@ -1,2 +1,1 @@
-Hola, esta es un archivo creado por una nueva rama
-
+Hola, este es un archivo creado desde la rama main.
