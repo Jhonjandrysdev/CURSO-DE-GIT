@@ -6,3 +6,4 @@ Agregando nuevo comentario para prueba de pull Request y documentacion en Notion
 Cambio desde VSdeveloper para practicar conflictos. 
 
 Nuevo cambio para practicar conflictos
+Cambios para ver etiquetas
