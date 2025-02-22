@@ -1,0 +1,15 @@
+/workspaces/CURSO-DE-GIT/proyecto-prueba-codespace/bin/Debug/net8.0/proyecto-prueba-codespace
+/workspaces/CURSO-DE-GIT/proyecto-prueba-codespace/bin/Debug/net8.0/proyecto-prueba-codespace.deps.json
+/workspaces/CURSO-DE-GIT/proyecto-prueba-codespace/bin/Debug/net8.0/proyecto-prueba-codespace.runtimeconfig.json
+/workspaces/CURSO-DE-GIT/proyecto-prueba-codespace/bin/Debug/net8.0/proyecto-prueba-codespace.dll
+/workspaces/CURSO-DE-GIT/proyecto-prueba-codespace/bin/Debug/net8.0/proyecto-prueba-codespace.pdb
+/workspaces/CURSO-DE-GIT/proyecto-prueba-codespace/obj/Debug/net8.0/proyecto-prueba-codespace.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CURSO-DE-GIT/proyecto-prueba-codespace/obj/Debug/net8.0/proyecto-prueba-codespace.AssemblyInfoInputs.cache
+/workspaces/CURSO-DE-GIT/proyecto-prueba-codespace/obj/Debug/net8.0/proyecto-prueba-codespace.AssemblyInfo.cs
+/workspaces/CURSO-DE-GIT/proyecto-prueba-codespace/obj/Debug/net8.0/proyecto-prueba-codespace.csproj.CoreCompileInputs.cache
+/workspaces/CURSO-DE-GIT/proyecto-prueba-codespace/obj/Debug/net8.0/proyecto-prueba-codespace.sourcelink.json
+/workspaces/CURSO-DE-GIT/proyecto-prueba-codespace/obj/Debug/net8.0/proyecto-prueba-codespace.dll
+/workspaces/CURSO-DE-GIT/proyecto-prueba-codespace/obj/Debug/net8.0/refint/proyecto-prueba-codespace.dll
+/workspaces/CURSO-DE-GIT/proyecto-prueba-codespace/obj/Debug/net8.0/proyecto-prueba-codespace.pdb
+/workspaces/CURSO-DE-GIT/proyecto-prueba-codespace/obj/Debug/net8.0/proyecto-prueba-codespace.genruntimeconfig.cache
+/workspaces/CURSO-DE-GIT/proyecto-prueba-codespace/obj/Debug/net8.0/ref/proyecto-prueba-codespace.dll
