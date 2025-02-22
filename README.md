@@ -13,3 +13,21 @@ Prueba git Fetch el 04-02
 Prueba 2 para git fetch del 04/02
 
 Prueba #3 para git fetch del 04/02
+
+---
+## DOCUMENTACION DE MARKDOWN EN GITHUB
+
+**Esto es importante**
+
+> Texto en una caja
+
+```javascript
+btnFuego.addEventListener('click', () => {
+        if (MascotaSeleccionada == undefined) {
+            alert('Selecciona primero la mascota')
+        } else {
+            ataqueJugador = 'Fuego🔥'
+            selectAtaqueRival()
+        }
+    })
+```
